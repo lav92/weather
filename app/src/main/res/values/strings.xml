@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="logo">Weather</string>
+    <string name="name_of_city">Введите название города</string>
+    <string name="search_button">поиск</string>
+
+    <string name="fail_input">Вы не ввели название города</string>
+
+</resources>
